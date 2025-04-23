@@ -7,9 +7,9 @@
 ### ✨ Sobre mí
 
 Soy desarrollador web full stack con más de 5 años de experiencia en la creación de aplicaciones modernas, rápidas y funcionales.  
-Me especializo en frontend con **React** y en el backend con **Node.js/Express** y **TypeScript**.
-Desarrolle librerias de componentes en storybook, plugins, apps, webs, pwa y scripts nodejs para crear herramientas que me ayudaban en mi trabajo diario.
-Me apasiona trabajar con mapas interactivos, rutas en tiempo real, WebSockets y PWAs, buscando siempre combinar rendimiento, buenas prácticas y código limpio.  
+Me especializo en frontend con **React** y en el backend con **Node.js/Express** y **TypeScript** en la creacion de servicios y **API REST** y **REST-FULL**.
+Desarrolle librerias de componentes en **Storybook**, **plugins**, **apps**, **webs** y scripts **NodeJS** para crear herramientas que me ayudaban en mi trabajo diario.
+Me apasiona trabajar con mapas interactivos, rutas en tiempo real, **WebSockets** y **PWAs**, buscando siempre combinar rendimiento, buenas prácticas y código limpio.  
 También valoro la documentación clara y las APIs bien estructuradas, y me gusta compartir soluciones y aprendizajes en el camino. Además, soy **CEO de AION TECHNOLOGIES**, una agencia de desarrollo de software donde ofrecemos soluciones innovadoras para mejorar la presencia digital de nuestros clientes.  
 Tengo experiencia desarrollando plugins personalizados para **WordPress** y **Shopify**, optimizando y extendiendo las funcionalidades de estas plataformas según las necesidades de los clientes.
 

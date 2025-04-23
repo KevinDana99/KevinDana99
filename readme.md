@@ -7,8 +7,8 @@
 ### ✨ Sobre mí
 
 Soy desarrollador web full stack con más de 5 años de experiencia en la creación de aplicaciones modernas, rápidas y funcionales.  
-Me especializo en backend con **Node.js** y **TypeScript**, y disfruto creando experiencias intuitivas en el frontend con **React**.
-
+Me especializo en frontend con **React** y en el backend con **Node.js/Express** y **TypeScript**.
+Desarrolle librerias de componentes en storybook, plugins, apps, webs, pwa y scripts nodejs para crear herramientas que me ayudaban en mi trabajo diario.
 Me apasiona trabajar con mapas interactivos, rutas en tiempo real, WebSockets y PWAs, buscando siempre combinar rendimiento, buenas prácticas y código limpio.  
 También valoro la documentación clara y las APIs bien estructuradas, y me gusta compartir soluciones y aprendizajes en el camino. Además, soy **CEO de AION TECHNOLOGIES**, una agencia de desarrollo de software donde ofrecemos soluciones innovadoras para mejorar la presencia digital de nuestros clientes.  
 Tengo experiencia desarrollando plugins personalizados para **WordPress** y **Shopify**, optimizando y extendiendo las funcionalidades de estas plataformas según las necesidades de los clientes.
@@ -25,7 +25,9 @@ Tengo experiencia desarrollando plugins personalizados para **WordPress** y **Sh
 ![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=Mongoose)
 ![Typegoose](https://img.shields.io/badge/-Typegoose-333333?style=flat&logo=Typegoose)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat&logo=storybook)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
 ![Styled-components](https://img.shields.io/badge/-Styled_components-333333?style=flat&logo=styled-components)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
 ![React Leaflet](https://img.shields.io/badge/-React_Leaflet-333333?style=flat&logo=react)

@@ -1,13 +1,13 @@
 # Hola 👋, soy Kevin Dana
 
-### Desarrollador Web Full Stack | CEO en AION TECHNOLOGIES | Con más de 5 años de experiencia en desarrollo | Apasionado por la geolocalización, las PWAs, el backend bien hecho y plugins para WordPress y Shopify 🚀
+### Desarrollador Web Full Stack | CEO en AION TECHNOLOGIES | Con más de 5 años de experiencia en desarrollo | Apasionado por crear soluciones tecnologicas que resuelvan problemas en la vida de las personas. He desarrollado apps, webs y plugins para WordPress y Shopify 🚀
 
 ---
 
 ### ✨ Sobre mí
 
 Soy desarrollador web full stack con más de 5 años de experiencia en la creación de aplicaciones modernas, rápidas y funcionales.  
-Me especializo en backend con Node.js y TypeScript, y disfruto creando experiencias intuitivas en el frontend con React y Leaflet.
+Me especializo en backend con **Node.js** y **TypeScript**, y disfruto creando experiencias intuitivas en el frontend con **React**.
 
 Me apasiona trabajar con mapas interactivos, rutas en tiempo real, WebSockets y PWAs, buscando siempre combinar rendimiento, buenas prácticas y código limpio.  
 También valoro la documentación clara y las APIs bien estructuradas, y me gusta compartir soluciones y aprendizajes en el camino. Además, soy **CEO de AION TECHNOLOGIES**, una agencia de desarrollo de software donde ofrecemos soluciones innovadoras para mejorar la presencia digital de nuestros clientes.  

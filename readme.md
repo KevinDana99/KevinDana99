@@ -17,12 +17,26 @@ Tengo experiencia desarrollando plugins personalizados para **WordPress** y **Sh
 
 ### 🛠️ Tecnologías
 
-```ts
-TypeScript | JavaScript | Node.js | Express | MongoDB | Mongoose | Typegoose
-React | Next.js | Styled-components | Tailwind | React Leaflet | Leaflet Routing Machine
-WebSockets | PWA | Git | Swagger | REST APIs
-WordPress | Shopify | Plugins | REST APIs (WordPress & Shopify)
-```
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+![Mongoose](https://img.shields.io/badge/-Mongoose-333333?style=flat&logo=Mongoose)
+![Typegoose](https://img.shields.io/badge/-Typegoose-333333?style=flat&logo=Typegoose)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Styled-components](https://img.shields.io/badge/-Styled-components-333333?style=flat&logo=styled-components)
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
+![React Leaflet](https://img.shields.io/badge/-React_Leaflet-333333?style=flat&logo=react)
+![Leaflet Routing Machine](https://img.shields.io/badge/-Leaflet_Routing_Machine-333333?style=flat&logo=leaflet)
+![WebSockets](https://img.shields.io/badge/-WebSockets-333333?style=flat&logo=websockets)
+![PWA](https://img.shields.io/badge/-PWA-333333?style=flat&logo=pwa)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
+![REST APIs](https://img.shields.io/badge/-REST_APIs-333333?style=flat&logo=api)
+![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress)
+![Shopify](https://img.shields.io/badge/-Shopify-333333?style=flat&logo=shopify)
 
 ### 🌐 Conectá conmigo
 

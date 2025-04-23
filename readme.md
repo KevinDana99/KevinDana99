@@ -1,38 +1,42 @@
-<h1>Hello! I'm Mauro Vera <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 🚀</h1>
-<h2>Frontend Developer 🎨 and Content Creator 📽</h2>
+# Hola 👋, soy Kevin Dana
 
-### About Me
+### Desarrollador Web Full Stack | CEO en AION TECHNOLOGIES | Con más de 5 años de experiencia en desarrollo | Apasionado por la geolocalización, las PWAs, el backend bien hecho y plugins para WordPress y Shopify 🚀
 
-- I am 21 years old and I am from Funes, Santa Fe, Argentina.
-- I am a MERN and PERN full stack developer.
-- I am a self-taught and highly creative individual who seeks to learn and improve every day.
-- I enjoy working with the frontend because I want to provide the best visual experience for the users who visit my projects.
+---
 
-### Technologies
+### ✨ Sobre mí
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=CE6B9E)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-<br/>
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Sequelize](https://img.shields.io/badge/-Sequelize-333333?style=flat&logo=sequelize)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+Soy desarrollador web full stack con más de 5 años de experiencia en la creación de aplicaciones modernas, rápidas y funcionales.  
+Me especializo en backend con Node.js y TypeScript, y disfruto creando experiencias intuitivas en el frontend con React y Leaflet.
 
-### Contact Me
+Me apasiona trabajar con mapas interactivos, rutas en tiempo real, WebSockets y PWAs, buscando siempre combinar rendimiento, buenas prácticas y código limpio.  
+También valoro la documentación clara y las APIs bien estructuradas, y me gusta compartir soluciones y aprendizajes en el camino. Además, soy **CEO de AION TECHNOLOGIES**, una agencia de desarrollo de software donde ofrecemos soluciones innovadoras para mejorar la presencia digital de nuestros clientes.  
+Tengo experiencia desarrollando plugins personalizados para **WordPress** y **Shopify**, optimizando y extendiendo las funcionalidades de estas plataformas según las necesidades de los clientes.
 
-<a href="https://www.linkedin.com/in/maurovera/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mauro%20Vera-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.youtube.com/channel/UCUORUOKKg8Ezj4tBJb_cRUQ"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Mauro%20Dev-blue?style=flat-square&logo=youtube"></a>
-<a href="https://www.tiktok.com/@devmauro_"><img alt="Tiktok" src="https://img.shields.io/badge/Dev Mauro-blue?style=flat-square&logo=tiktok"></a>  
-<a href="maurovera069@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-Maurovera069@gmail.com-blue?style=flat-square&logo=gmail"></a>
+---
 
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=mauro069&show_icons=true)
+### 🛠️ Tecnologías
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mauro069&label=Profile%20views&color=0e75b6&style=flat" alt="mauro069" /> </p>
+```ts
+TypeScript | JavaScript | Node.js | Express | MongoDB | Mongoose | Typegoose
+React | Next.js | Styled-components | Tailwind | React Leaflet | Leaflet Routing Machine
+WebSockets | PWA | Git | Swagger | REST APIs
+WordPress | Shopify | Plugins | REST APIs (WordPress & Shopify)
+```
+
+### 🌐 Conectá conmigo
+
+- **Email**: [kevindana99@gmail.com](mailto:kevindana99@gmail.com)
+- **WhatsApp**: [+54 2804670313](https://wa.me/542804670313)
+- **LinkedIn**: [Kevin Dana](https://www.linkedin.com/in/kevin-dana-3a2b19175/)
+- **GitHub**: [kevindana99](https://github.com/kevindana99)
+- **Instagram**: [kevinedana99](https://instagram.com/kevinedana99)
+- **Discord**: [KevinDana99](https://discord.com/users/KevinDana99)
+- **Portafolio**: [aionagencia.com](https://aionagencia.com)
+
+### 📈 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kevindana99&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevindana99&layout=compact&theme=github_dark" />
+</p>

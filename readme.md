@@ -26,7 +26,7 @@ Tengo experiencia desarrollando plugins personalizados para **WordPress** y **Sh
 ![Typegoose](https://img.shields.io/badge/-Typegoose-333333?style=flat&logo=Typegoose)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![Styled-components](https://img.shields.io/badge/-Styled-components-333333?style=flat&logo=styled-components)
+![Styled-components](https://img.shields.io/badge/-Styled-components-333333?style=flat&logo=styled-components&logoColor=DB7093)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
 ![React Leaflet](https://img.shields.io/badge/-React_Leaflet-333333?style=flat&logo=react)
 ![Leaflet Routing Machine](https://img.shields.io/badge/-Leaflet_Routing_Machine-333333?style=flat&logo=leaflet)

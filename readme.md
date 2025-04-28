@@ -42,7 +42,7 @@ Tengo experiencia desarrollando plugins personalizados para **WordPress** y **Sh
 
 ### 🌐 Conectá conmigo
 
-- **Email**: [kevindana99@gmail.com](mailto:kevindana99@gmail.com)
+- **Email**: [kevindanadev@gmail.com](mailto:kevindanadev@gmail.com)
 - **WhatsApp**: [+54 2804670313](https://wa.me/542804670313)
 - **LinkedIn**: [Kevin Dana](https://www.linkedin.com/in/kevin-dana-3a2b19175/)
 - **GitHub**: [kevindana99](https://github.com/kevindana99)
